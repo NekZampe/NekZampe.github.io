@@ -6,7 +6,7 @@ import { Experience } from "./pages/Experience";
 
 function App() {
   const [activeTab, setActiveTab] = useState(() => {
-    return sessionStorage.getItem("activePortfolioTab") || "projects";
+    return sessionStorage.getItem("activePortfolioTab") || "about";
   });
 
   useEffect(() => {
