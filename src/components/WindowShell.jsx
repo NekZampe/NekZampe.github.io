@@ -15,11 +15,14 @@ export function WindowShell({ children, activeTab, setActiveTab }) {
     >
       <TitleBar />
 
+      
+
       <menu role="tablist" style={{ margin: "10px 10px 0 10px" }}>
-        {/* Project Experience first */}
-        <li role="tab" aria-selected={activeTab === "projects"}>
-          <a href="#projects" onClick={() => setActiveTab("projects")}>
-            Projects.exe
+        
+        {/* Personal Profile last */}
+        <li role="tab" aria-selected={activeTab === "about"}>
+          <a href="#about" onClick={() => setActiveTab("about")}>
+            About_Me.usr
           </a>
         </li>
 
@@ -30,12 +33,13 @@ export function WindowShell({ children, activeTab, setActiveTab }) {
           </a>
         </li>
 
-        {/* Personal Profile last */}
-        <li role="tab" aria-selected={activeTab === "about"}>
-          <a href="#about" onClick={() => setActiveTab("about")}>
-            About_Me.usr
+                {/* Project Experience first */}
+        <li role="tab" aria-selected={activeTab === "projects"}>
+          <a href="#projects" onClick={() => setActiveTab("projects")}>
+            Projects.exe
           </a>
         </li>
+        
       </menu>
 
       <div
