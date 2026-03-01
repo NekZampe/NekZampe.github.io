@@ -25,8 +25,8 @@ i18n
           },
 
           about: {
-            heading: "Software Engineer & Backend Specialist",
-            bio: "Final-year Software Engineering student at Concordia University, graduating soon. I specialize in backend engineering with C# and Java, with a strong interest in distributed systems and scalable architecture. Currently leading backend development for my capstone project, SwapStreet. I also actively work on my homelab, building and experimenting with infrastructure, networking, and self-hosted systems.",
+            heading: "Software Engineer | Test Automation & Backend Systems",
+            bio: "Final-year Software Engineering student at Concordia University, graduating in 2026. I specialize in backend engineering with C# and Java, with a strong interest in distributed systems and scalable architecture. I also enjoy software testing and building reliable systems through thoughtful validation and automation practices. Currently leading backend development for my capstone project, SwapStreet. Outside of school, I actively work on my homelab, building and experimenting with infrastructure, networking, and self-hosted systems.",
 
             education: {
               title: "Education & Leadership",
@@ -132,8 +132,8 @@ i18n
           },
 
           about: {
-            heading: "Ingénieur Logiciel & Spécialiste Backend",
-            bio: "Étudiant en dernière année de génie logiciel à l’Université Concordia, bientôt diplômé. Je me spécialise en ingénierie backend avec C# et Java, avec un fort intérêt pour les systèmes distribués et les architectures évolutives. Je dirige actuellement le développement backend de mon projet de fin d’études, SwapStreet. Je travaille également activement sur mon homelab, où je conçois et expérimente avec l’infrastructure, le réseautage et les systèmes auto-hébergés.",
+            heading: "Ingénieur Logiciel | Automatisation des Tests & Systèmes Backend",
+            bio: "Étudiant en dernière année de génie logiciel à l’Université Concordia, diplômation prévue en 2026. Je me spécialise en développement backend avec C# et Java, avec un fort intérêt pour les systèmes distribués et les architectures évolutives. J’apprécie également le domaine des tests logiciels et la conception de systèmes fiables grâce à des pratiques rigoureuses de validation et d’automatisation. Je dirige actuellement le développement backend de mon projet de fin d’études, SwapStreet. En dehors de mes études, je développe activement mon homelab, où j’expérimente avec l’infrastructure, le réseautage et les systèmes auto-hébergés.",
 
             education: {
               title: "Éducation et Leadership",
